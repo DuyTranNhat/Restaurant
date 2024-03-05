@@ -1,0 +1,16 @@
+.home-page > header {
+    background-image: url(../utils/img/header-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.home-page h1,
+.home-page h2 {
+    text-shadow: 2px 2px 8px #ffffff;
+}
+
+.home-page > .menu-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../utils/img/bg_flavor.jpg);
+    background-size: cover;
+    background-position: top left   ;
+}
